@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking to collaborate on Data Analysis and Data Visualization
-- 📫 How to reach me harshulbishnoi0004@gmai;.com
+- 📫 How to reach me harshulbishnoi0004@gmail.com
 
 <!---
 HarshulBishnoi29/HarshulBishnoi29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
